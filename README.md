@@ -20,7 +20,7 @@
 ---
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,docker,git,postman,linux,c,python,postgres,sentry,socketio,kubernetes,jenkins,prisma,redux,tailwind&perline=10"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,docker,git,postman,linux,c,python,postgres,sentry,kubernetes,jenkins,prisma,redux,tailwind&perline=10"/>
 </p>
 
 
