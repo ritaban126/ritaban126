@@ -20,7 +20,9 @@
 ---
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,docker,git,postman,linux,c,python,postgres,sentry,kubernetes,jenkins,prisma,redux,tailwind,turborepo,neon,redis,drizzle&perline=10"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,docker,git,postman,linux,c,python,postgres,sentry,kubernetes,jenkins,prisma,redux,tailwind,redis&perline=10"/>
+ <img src="https://cdn.simpleicons.org/turborepo"/>
+  <img src="https://cdn.simpleicons.org/drizzle"/>
 </p>
 
 
