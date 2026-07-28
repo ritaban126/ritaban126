@@ -21,8 +21,8 @@
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,docker,git,postman,linux,c,python,postgres,sentry,kubernetes,jenkins,prisma,redux,tailwind,redis&perline=10"/>
- <img src="https://cdn.simpleicons.org/turborepo"/>
-  <img src="https://cdn.simpleicons.org/drizzle"/>
+<img src="https://cdn.simpleicons.org/turborepo" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/drizzle" width="48" height="48"/>
 </p>
 
 
