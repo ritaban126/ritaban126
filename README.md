@@ -9,7 +9,7 @@
 
 - 🚀 Full Stack Engineer focused on building scalable web Application and backend system using Mern Stack
   
-- 🔭I am currently working on MERN Stack
+- 🔭I am currently working on MERN Stack and Golang also
   
 - 🌱 I am currently learning Amazon Web Services and Production infastructure with DevOps
   
